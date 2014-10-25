@@ -14,6 +14,7 @@
 		E7A9D6E719FBF4B2007B76BB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7A9D6E619FBF4B2007B76BB /* Images.xcassets */; };
 		E7A9D6EA19FBF4B2007B76BB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E7A9D6E819FBF4B2007B76BB /* LaunchScreen.xib */; };
 		E7A9D6F619FBF4B2007B76BB /* test_day_28Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = E7A9D6F519FBF4B2007B76BB /* test_day_28Tests.m */; };
+		E7A9D70119FBF4DB007B76BB /* ColorChangerView.m in Sources */ = {isa = PBXBuildFile; fileRef = E7A9D70019FBF4DB007B76BB /* ColorChangerView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		E7A9D6EF19FBF4B2007B76BB /* test-day-28Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "test-day-28Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7A9D6F419FBF4B2007B76BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E7A9D6F519FBF4B2007B76BB /* test_day_28Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test_day_28Tests.m; sourceTree = "<group>"; };
+		E7A9D6FF19FBF4DB007B76BB /* ColorChangerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorChangerView.h; sourceTree = "<group>"; };
+		E7A9D70019FBF4DB007B76BB /* ColorChangerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorChangerView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				E7A9D6DE19FBF4B2007B76BB /* AppDelegate.m */,
 				E7A9D6E019FBF4B2007B76BB /* ViewController.h */,
 				E7A9D6E119FBF4B2007B76BB /* ViewController.m */,
+				E7A9D6FF19FBF4DB007B76BB /* ColorChangerView.h */,
+				E7A9D70019FBF4DB007B76BB /* ColorChangerView.m */,
 				E7A9D6E319FBF4B2007B76BB /* Main.storyboard */,
 				E7A9D6E619FBF4B2007B76BB /* Images.xcassets */,
 				E7A9D6E819FBF4B2007B76BB /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				E7A9D6E219FBF4B2007B76BB /* ViewController.m in Sources */,
 				E7A9D6DF19FBF4B2007B76BB /* AppDelegate.m in Sources */,
 				E7A9D6DC19FBF4B2007B76BB /* main.m in Sources */,
+				E7A9D70119FBF4DB007B76BB /* ColorChangerView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
